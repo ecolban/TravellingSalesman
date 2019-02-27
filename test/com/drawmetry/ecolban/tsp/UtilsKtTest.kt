@@ -1,7 +1,7 @@
 package com.drawmetry.ecolban.tsp
 
-import org.junit.Assert.*
 import org.junit.Test
+import kotlin.test.assertEquals
 
 class UtilsKtTest {
 
@@ -14,7 +14,7 @@ class UtilsKtTest {
         assertEquals(1, fib20[0])
         assertEquals(1, fib20[1])
         for (i in 0 until fib20.size - 2) {
-            assertTrue(fib20[i] + fib20[i + 1] == fib20[i + 2])
+            assertEquals(fib20[i] + fib20[i + 1], fib20[i + 2])
         }
     }
 
