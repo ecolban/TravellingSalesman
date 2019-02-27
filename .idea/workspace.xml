@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="923c52aa-68bf-4ea7-97cc-98ce4c784054" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/drawmetry/ecolban/tsp/TestReversibleList.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#34#120#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/drawmetry/ecolban/tsp/Utils.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/com/drawmetry/ecolban/tsp/UtilsKtTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="e#35#82#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/drawmetry/ecolban/tsp/TravellingSalesman.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="263" column="14" selection-start-line="263" selection-start-column="14" selection-end-line="263" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/drawmetry/ecolban/tsp/ReversibleList.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/drawmetry/ecolban/tsp/Utils.kt" />
+        <option value="$PROJECT_DIR$/src/com/drawmetry/ecolban/tsp/TravellingSalesman.kt" />
+        <option value="$PROJECT_DIR$/test/com/drawmetry/ecolban/tsp/TestReversibleList.kt" />
+        <option value="$PROJECT_DIR$/test/com/drawmetry/ecolban/tsp/UtilsKtTest.java" />
+        <option value="$PROJECT_DIR$/src/com/drawmetry/ecolban/tsp/ReversibleList.kt" />
+        <option value="$PROJECT_DIR$/test/com/drawmetry/ecolban/tsp/UtilsKtTest.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TravellingSalesman2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravellingSalesman2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravellingSalesman2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravellingSalesman2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravellingSalesman2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravellingSalesman2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravellingSalesman2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravellingSalesman2" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravellingSalesman2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravellingSalesman2" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="tsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551295375367" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.drawmetry.ecolban.tsp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.UtilsKtTest">
+    <configuration name="TestReversibleList.test reversing a list with more than 2 elements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TravellingSalesman2" />
+      <option name="PACKAGE_NAME" value="com.drawmetry.ecolban.tsp" />
+      <option name="MAIN_CLASS_NAME" value="TestReversibleList" />
+      <option name="METHOD_NAME" value="test reversing a list with more than 2 elements" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsKtTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TravellingSalesman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.drawmetry.ecolban.tsp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.drawmetry.ecolban.tsp" />
+      <option name="MAIN_CLASS_NAME" value="com.drawmetry.ecolban.tsp.UtilsKtTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsKtTest.test Collatz sequence using iteration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TravellingSalesman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.drawmetry.ecolban.tsp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.drawmetry.ecolban.tsp" />
+      <option name="MAIN_CLASS_NAME" value="com.drawmetry.ecolban.tsp.UtilsKtTest" />
+      <option name="METHOD_NAME" value="test Collatz sequence using iteration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsKtTest.test Fibonacci sequence usin iteration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TravellingSalesman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.drawmetry.ecolban.tsp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.drawmetry.ecolban.tsp" />
+      <option name="MAIN_CLASS_NAME" value="com.drawmetry.ecolban.tsp.UtilsKtTest" />
+      <option name="METHOD_NAME" value="test Fibonacci sequence usin iteration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsKtTest.test Fibonacci sequence using iteration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TravellingSalesman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.drawmetry.ecolban.tsp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.drawmetry.ecolban.tsp" />
+      <option name="MAIN_CLASS_NAME" value="com.drawmetry.ecolban.tsp.UtilsKtTest" />
+      <option name="METHOD_NAME" value="test Fibonacci sequence using iteration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UtilsKtTest" />
+        <item itemvalue="JUnit.UtilsKtTest.test Fibonacci sequence using iteration" />
+        <item itemvalue="JUnit.UtilsKtTest.test Collatz sequence using iteration" />
+        <item itemvalue="JUnit.UtilsKtTest.test Fibonacci sequence usin iteration" />
+        <item itemvalue="JUnit.TestReversibleList.test reversing a list with more than 2 elements" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="923c52aa-68bf-4ea7-97cc-98ce4c784054" name="Default Changelist" comment="" />
+      <created>1551290431357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551290431357</updated>
+      <workItem from="1551290437070" duration="4805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestReversibleList_test_reversing_a_list_with_more_than_2_elements - 2019.02.27 at 10h 51m 30s.xml">
+      <configuration name="TestReversibleList.test reversing a list with more than 2 elements" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReversibleList_test_reversing_a_list_with_more_than_2_elements - 2019.02.27 at 10h 53m 00s.xml">
+      <configuration name="TestReversibleList.test reversing a list with more than 2 elements" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilsKtTest_test_Fibonacci_sequence_usin_iteration - 2019.02.27 at 11h 02m 57s.xml">
+      <configuration name="UtilsKtTest.test Fibonacci sequence usin iteration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilsKtTest_test_Fibonacci_sequence_using_iteration - 2019.02.27 at 11h 04m 45s.xml">
+      <configuration name="UtilsKtTest.test Fibonacci sequence using iteration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilsKtTest_test_Collatz_sequence_using_iteration - 2019.02.27 at 11h 06m 51s.xml">
+      <configuration name="UtilsKtTest.test Collatz sequence using iteration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilsKtTest_test_Collatz_sequence_using_iteration - 2019.02.27 at 11h 09m 51s.xml">
+      <configuration name="UtilsKtTest.test Collatz sequence using iteration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilsKtTest_test_Collatz_sequence_using_iteration - 2019.02.27 at 11h 10m 14s.xml">
+      <configuration name="UtilsKtTest.test Collatz sequence using iteration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilsKtTest_test_Collatz_sequence_using_iteration - 2019.02.27 at 11h 10m 41s.xml">
+      <configuration name="UtilsKtTest.test Collatz sequence using iteration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilsKtTest_test_Fibonacci_sequence_using_iteration - 2019.02.27 at 11h 13m 45s.xml">
+      <configuration name="UtilsKtTest.test Fibonacci sequence using iteration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilsKtTest - 2019.02.27 at 11h 14m 17s.xml">
+      <configuration name="UtilsKtTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4805000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.329927" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/com/drawmetry/ecolban/tsp/TestReversibleList.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#34#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/drawmetry/ecolban/tsp/Utils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/drawmetry/ecolban/tsp/TravellingSalesman.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="263" column="14" selection-start-line="263" selection-start-column="14" selection-end-line="263" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/drawmetry/ecolban/tsp/ReversibleList.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/drawmetry/ecolban/tsp/UtilsKtTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#35#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 (BigQuery) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TravellingSalesman2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
