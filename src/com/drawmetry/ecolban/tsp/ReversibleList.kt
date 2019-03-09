@@ -29,6 +29,8 @@ class ReversibleNode<V>(val value: V, private var positiveDirection: Boolean = t
     internal fun reverse() {
         positiveDirection = !positiveDirection
     }
+
+    override fun toString(): String = value.toString()
 }
 
 class ReversibleList<T : Any>(startValue: T) : Iterable<T> {
@@ -36,7 +38,7 @@ class ReversibleList<T : Any>(startValue: T) : Iterable<T> {
     var start: ReversibleNode<T> = ReversibleNode(value = startValue)
 
     val nodeSequence: Sequence<ReversibleNode<T>>
-        get() = iteration(start) { if (it.next == start) null else it.next }
+        get() = generateSequence(start) { if (it.next == start) null else it.next }
 
     var size: Int = 1
 
@@ -85,14 +87,17 @@ class ReversibleList<T : Any>(startValue: T) : Iterable<T> {
     }
 
     companion object {
-        fun <T:Any> listOf(vararg elements: T): ReversibleList<T> {
-            if (elements.isEmpty()) throw IllegalArgumentException("A ReversibleList must contain at least on element.")
-            val iterator = elements.iterator()
-            val result = ReversibleList(iterator.next())
-            for (e in iterator) {
-                result.add(e)
-            }
-            return result
-        }
+        fun <T : Any> listOf(vararg elements: T): ReversibleList<T> =
+                elements.asIterable().toReversibleList()
     }
+}
+
+fun <T : Any> Iterable<T>.toReversibleList(): ReversibleList<T> {
+    val iterator = iterator()
+    if (!iterator.hasNext()) throw IllegalArgumentException("A ReversibleList must contain at least on element.")
+    val result = ReversibleList<T>(iterator.next())
+    for (e in iterator) {
+        result.add(e)
+    }
+    return result
 }

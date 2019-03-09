@@ -1,11 +1,11 @@
 package com.drawmetry.ecolban.tsp
 
-fun <T : Any> iteration(first: T?, step: (T) -> T?): Sequence<T> {
-    var next = first
-    return generateSequence {
-        next?.let {
-            next = step(it)
-            it
-        }
+import java.util.*
+
+fun <T : Comparable<T>> PriorityQueue<T>.pollUntil(isGood: (T) -> Boolean): T? {
+    var element: T = poll() ?: return null
+    while (!isGood(element)) {
+        element = poll() ?: return null
     }
+    return element
 }

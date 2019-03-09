@@ -7,15 +7,14 @@ import kotlin.test.assertNotNull
 class TestReversibleList() {
 
     @Test
-    fun testInitial() {
+    fun `test initialization of a list`() {
         val list = ReversibleList(1)
-        println("Tested")
         assertNotNull(list.start)
         assertEquals(1, list.start.value)
     }
 
     @Test
-    fun testListOf() {
+    fun `test ReversibleList listOf`() {
         val list = ReversibleList.listOf(1, 2, 3, 4)
         assertNotNull(list)
         assertEquals(4, list.size)
@@ -23,7 +22,7 @@ class TestReversibleList() {
     }
 
     @Test
-    fun testAdd() {
+    fun `test adding an element to a list`() {
         val list = ReversibleList(1)
         list.add(2)
         assertEquals(2, list.size)
